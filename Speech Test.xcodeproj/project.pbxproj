@@ -16,6 +16,7 @@
 		886D13362861350A00B19D4A /* Speech_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886D13352861350A00B19D4A /* Speech_TestTests.swift */; };
 		886D13402861350A00B19D4A /* Speech_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886D133F2861350A00B19D4A /* Speech_TestUITests.swift */; };
 		886D13422861350A00B19D4A /* Speech_TestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886D13412861350A00B19D4A /* Speech_TestUITestsLaunchTests.swift */; };
+		886D134F2861372B00B19D4A /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 886D134E2861372B00B19D4A /* video.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		886D133B2861350A00B19D4A /* Speech TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Speech TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		886D133F2861350A00B19D4A /* Speech_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speech_TestUITests.swift; sourceTree = "<group>"; };
 		886D13412861350A00B19D4A /* Speech_TestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Speech_TestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		886D134E2861372B00B19D4A /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = video.mp4; path = ../../../Downloads/video.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		886D131D2861350900B19D4A /* Speech Test */ = {
 			isa = PBXGroup;
 			children = (
+				886D134E2861372B00B19D4A /* video.mp4 */,
 				886D131E2861350900B19D4A /* AppDelegate.swift */,
 				886D13202861350900B19D4A /* SceneDelegate.swift */,
 				886D13222861350900B19D4A /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				886D132B2861350A00B19D4A /* LaunchScreen.storyboard in Resources */,
+				886D134F2861372B00B19D4A /* video.mp4 in Resources */,
 				886D13282861350A00B19D4A /* Assets.xcassets in Resources */,
 				886D13262861350900B19D4A /* Main.storyboard in Resources */,
 			);
